@@ -1,4 +1,4 @@
-[2:48 pm, 12/01/2024] Amrjit Bgp: // Codesoft Internship:-
+ // Codesoft Internship:-
         //Simple Calculator made by KALYANI SINGH.....
 
 #include <iostream>
